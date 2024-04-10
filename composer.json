@@ -1,0 +1,18 @@
+{
+    "name": "bhuvnesh-samarth/demo-repo",
+    "description": "This package is just for learning purpose",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bhuvnesh Kumar Anand",
+            "email": "bhuvnesh.kumar@samarth.ac.in"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "mypackage\\": "src/"
+        }
+    },
+    "require": {}
+}
